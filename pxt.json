@@ -10,7 +10,7 @@
     "files": [
         "README.md",
         "bansot.ts",
-        "_locales/zh/bansot-strings.json"
+        "_locales/zh-cn/bansot-strings.json"
     ],
     "testFiles": [
         "test.ts"
